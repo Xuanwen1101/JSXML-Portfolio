@@ -119,7 +119,7 @@ Distributed under the MIT License.
 
 Xuanwen Zheng: xuanwen1101@outlook.com
 
-Project Link: [https://github.com/Xuanwen1101/PassionProject-Movie](https://github.com/Xuanwen1101/PassionProject-Movie)
+Project Link: [https://github.com/Xuanwen1101/JSXML-Portfolio](https://github.com/Xuanwen1101/JSXML-Portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
