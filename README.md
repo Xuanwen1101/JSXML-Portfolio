@@ -1,7 +1,69 @@
-# Getting Started with Create React App
+# JSXML Portfolio Site (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div id="top"></div>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Xuanwen1101/JSXML-Portfolio">
+    <img src="public/images/logo.png" alt="Logo" width="180">
+  </a>
 
+  <h3 align="center">Xuanwen Zheng's Portfolio</h3>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#website-link">Website Link</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#available-scripts">Available Scripts</a>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project is Xuanwen Zheng's Portfolio Site that display my basic information about my self introduction, skills, educations, work experience, projects, blogs by using React. It uses the JSON APIs which Austin Caron and I created in the PHP course (Laravel backend), retrieves the data, and uses that in the React site. 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com)
+* [Vercel](https://vercel.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Website Link
+
+[Xuanwen Zheng's Portfolio](https://jsxml-portfolio-site.vercel.app/)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- AVAILABLE SCRIPTS -->
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,32 +101,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<!-- LICENSE -->
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Distributed under the MIT License.
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- CONTACT -->
+## Contact
 
-### Advanced Configuration
+Xuanwen Zheng: xuanwen1101@outlook.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Project Link: [https://github.com/Xuanwen1101/PassionProject-Movie](https://github.com/Xuanwen1101/PassionProject-Movie)
 
-### Deployment
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
